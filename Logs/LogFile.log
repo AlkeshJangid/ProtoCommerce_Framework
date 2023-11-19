@@ -1,0 +1,710 @@
+2023-11-19 10:45:06,864 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_url : Opening Browser
+2023-11-19 10:45:06,871 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_url : Checking Page Title
+2023-11-19 10:45:07,349 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_url : Page Title Confirmed : ProtoCommerce
+2023-11-19 10:45:07,547 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_url : test_url : Completed
+2023-11-19 10:45:10,090 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 10:45:10,092 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Opening Browser
+2023-11-19 10:45:10,234 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Enter Name : Alkesh Jangid
+2023-11-19 10:45:10,344 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Enter Email id : admin@gmail.com
+2023-11-19 10:45:10,439 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Enter Password : admin123
+2023-11-19 10:45:10,521 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Click on CheckBox
+2023-11-19 10:45:10,612 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Select Gender
+2023-11-19 10:45:10,685 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Click on Radio Button
+2023-11-19 10:45:10,776 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Enter Date of Birth : 10-11-2012
+2023-11-19 10:45:10,862 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Not Submitted
+2023-11-19 10:45:11,766 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Click on Shop Button
+2023-11-19 10:45:11,846 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Select item and click Add to Cart button
+2023-11-19 10:47:20,327 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_url : Opening Browser
+2023-11-19 10:47:20,330 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_url : Checking Page Title
+2023-11-19 10:47:20,940 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_url : Page Title Confirmed : ProtoCommerce
+2023-11-19 10:47:21,132 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_url : test_url : Completed
+2023-11-19 10:47:23,770 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 10:47:23,770 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Opening Browser
+2023-11-19 10:47:23,918 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Enter Name : Alkesh Jangid
+2023-11-19 10:47:24,042 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Enter Email id : admin@gmail.com
+2023-11-19 10:47:24,151 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Enter Password : admin123
+2023-11-19 10:47:24,258 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Click on CheckBox
+2023-11-19 10:47:24,367 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Select Gender
+2023-11-19 10:47:24,447 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Click on Radio Button
+2023-11-19 10:47:24,562 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Enter Date of Birth : 10-11-2012
+2023-11-19 10:47:24,707 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Not Submitted
+2023-11-19 10:47:25,696 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Click on Shop Button
+2023-11-19 10:47:25,769 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Select item and click Add to Cart button
+2023-11-19 10:54:50,155 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_url : Opening Browser
+2023-11-19 10:54:50,157 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_url : Checking Page Title
+2023-11-19 10:54:50,174 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_url : Page Title Confirmed : ProtoCommerce
+2023-11-19 10:54:50,355 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_url : test_url : Completed
+2023-11-19 10:54:53,049 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 10:54:53,050 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Opening Browser
+2023-11-19 10:54:53,220 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Enter Name : Alkesh Jangid
+2023-11-19 10:54:53,341 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Enter Email id : admin@gmail.com
+2023-11-19 10:54:53,442 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Enter Password : admin123
+2023-11-19 10:54:53,524 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Click on CheckBox
+2023-11-19 10:54:53,614 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Select Gender
+2023-11-19 10:54:53,694 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Click on Radio Button
+2023-11-19 10:54:53,791 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Enter Date of Birth : 10-11-2012
+2023-11-19 10:54:53,878 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Not Submitted
+2023-11-19 10:54:54,749 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Click on Shop Button
+2023-11-19 10:54:54,820 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Select item and click Add to Cart button
+2023-11-19 10:55:31,590 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 10:55:31,591 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Opening Browser
+2023-11-19 10:55:31,613 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_url : Opening Browser
+2023-11-19 10:55:31,616 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_url : Checking Page Title
+2023-11-19 10:55:31,641 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_url : Page Title Confirmed : ProtoCommerce
+2023-11-19 10:55:32,001 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Enter Name : Alkesh Jangid
+2023-11-19 10:55:32,225 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Enter Email id : admin@gmail.com
+2023-11-19 10:55:32,331 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_url : test_url : Completed
+2023-11-19 10:55:32,402 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Enter Password : admin123
+2023-11-19 10:55:32,502 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Click on CheckBox
+2023-11-19 10:55:32,596 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Select Gender
+2023-11-19 10:55:32,679 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Click on Radio Button
+2023-11-19 10:55:32,788 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Enter Date of Birth : 10-11-2012
+2023-11-19 10:55:32,915 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Not Submitted
+2023-11-19 10:55:34,264 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Click on Shop Button
+2023-11-19 10:55:34,364 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Select item and click Add to Cart button
+2023-11-19 10:55:36,592 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Click on Cart Checkout item button
+2023-11-19 10:55:36,777 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Click on Final Checkout Button
+2023-11-19 10:55:37,221 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Enter Location Pune
+2023-11-19 10:55:37,350 : INFO : F:\Testing Documents\Pycharm Practice\ParaBankFramework\venv\Lib\site-packages\_pytest\assertion\rewrite.py : test_Detail_Submit : Agree Terms and Conditions
+2023-11-19 11:00:32,048 : INFO : Test_Url : test_url_01 : Opening Browser
+2023-11-19 11:00:32,060 : INFO : Test_Url : test_url_01 : Checking Page Title
+2023-11-19 11:00:32,085 : INFO : Test_Url : test_url_01 : Page Title Confirmed : ProtoCommerce
+2023-11-19 11:00:32,443 : INFO : Test_Url : test_url_01 : test_url : Completed
+2023-11-19 11:00:32,627 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 11:00:32,627 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 11:00:32,897 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 11:00:33,888 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 11:01:14,770 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 11:01:14,770 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 11:01:14,994 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 11:01:15,170 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 11:01:15,288 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 11:01:15,388 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 11:01:15,482 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 11:01:15,560 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 11:01:15,669 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 11:01:15,763 : INFO : Test_Url : test_Detail_Submit_02 : Not Submitted
+2023-11-19 11:01:16,969 : INFO : Test_Url : test_Detail_Submit_02 : Click on Shop Button
+2023-11-19 11:01:17,081 : INFO : Test_Url : test_Detail_Submit_02 : Select item and click Add to Cart button
+2023-11-19 11:01:19,186 : INFO : Test_Url : test_Detail_Submit_02 : Click on Cart Checkout item button
+2023-11-19 11:01:19,277 : INFO : Test_Url : test_Detail_Submit_02 : Click on Final Checkout Button
+2023-11-19 11:01:19,411 : INFO : Test_Url : test_Detail_Submit_02 : Enter Location Pune
+2023-11-19 11:01:19,595 : INFO : Test_Url : test_Detail_Submit_02 : Agree Terms and Conditions
+2023-11-19 11:01:20,224 : INFO : Test_Url : test_Detail_Submit_02 : Click on Purchase Button
+2023-11-19 11:01:20,480 : INFO : Test_Url : test_Detail_Submit_02 : Successfully Purchase item
+2023-11-19 11:01:20,480 : INFO : Test_Url : test_Detail_Submit_02 : test_Detail_Submit : Completed
+2023-11-19 11:03:27,502 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 11:03:27,503 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 11:03:28,306 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 11:03:28,444 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 11:03:28,547 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 11:03:28,615 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 11:03:28,719 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 11:03:28,783 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 11:03:28,893 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 11:03:30,983 : INFO : Test_Url : test_Detail_Submit_02 : Not Submitted
+2023-11-19 11:03:32,331 : INFO : Test_Url : test_Detail_Submit_02 : Click on Shop Button
+2023-11-19 11:03:32,451 : INFO : Test_Url : test_Detail_Submit_02 : Select item and click Add to Cart button
+2023-11-19 11:03:34,552 : INFO : Test_Url : test_Detail_Submit_02 : Click on Cart Checkout item button
+2023-11-19 11:03:34,642 : INFO : Test_Url : test_Detail_Submit_02 : Click on Final Checkout Button
+2023-11-19 11:03:34,759 : INFO : Test_Url : test_Detail_Submit_02 : Enter Location Pune
+2023-11-19 11:03:34,901 : INFO : Test_Url : test_Detail_Submit_02 : Agree Terms and Conditions
+2023-11-19 11:04:19,160 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 11:04:19,160 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 11:04:20,005 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 11:04:20,169 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 11:04:20,281 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 11:04:20,387 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 11:04:20,485 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 11:04:20,622 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 11:04:20,740 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 11:04:22,836 : INFO : Test_Url : test_Detail_Submit_02 : Not Submitted
+2023-11-19 11:04:24,036 : INFO : Test_Url : test_Detail_Submit_02 : Click on Shop Button
+2023-11-19 11:04:24,168 : INFO : Test_Url : test_Detail_Submit_02 : Select item and click Add to Cart button
+2023-11-19 11:04:26,248 : INFO : Test_Url : test_Detail_Submit_02 : Click on Cart Checkout item button
+2023-11-19 11:04:26,361 : INFO : Test_Url : test_Detail_Submit_02 : Click on Final Checkout Button
+2023-11-19 11:04:26,471 : INFO : Test_Url : test_Detail_Submit_02 : Enter Location Pune
+2023-11-19 11:04:26,632 : INFO : Test_Url : test_Detail_Submit_02 : Agree Terms and Conditions
+2023-11-19 11:04:27,272 : INFO : Test_Url : test_Detail_Submit_02 : Click on Purchase Button
+2023-11-19 11:04:27,478 : INFO : Test_Url : test_Detail_Submit_02 : Successfully Purchase item
+2023-11-19 11:04:27,478 : INFO : Test_Url : test_Detail_Submit_02 : test_Detail_Submit : Completed
+2023-11-19 11:18:18,920 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 11:18:18,920 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 11:18:19,312 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 11:18:19,584 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 11:18:19,781 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 11:18:19,924 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 11:18:20,093 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 11:18:20,198 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 11:18:20,332 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 11:18:22,457 : INFO : Test_Url : test_Detail_Submit_02 : Not Submitted
+2023-11-19 11:20:15,110 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 11:20:15,111 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 11:20:15,364 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 11:20:15,562 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 11:20:15,687 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 11:20:15,789 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 11:20:15,906 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 11:20:16,007 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 11:20:16,109 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 11:20:18,322 : INFO : Test_Url : test_Detail_Submit_02 : Not Submitted
+2023-11-19 11:23:31,217 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 11:23:31,218 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 11:23:31,537 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 11:23:31,838 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 11:23:31,974 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 11:23:32,206 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 11:23:32,339 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 11:23:32,656 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 11:23:32,804 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 11:23:35,009 : INFO : Test_Url : test_Detail_Submit_02 : Not Submitted
+2023-11-19 11:38:02,959 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 11:38:02,975 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 11:38:03,217 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 11:38:03,445 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 11:38:03,616 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 11:38:03,775 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 11:38:03,942 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 11:38:04,033 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 11:38:04,160 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 11:46:05,811 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 11:46:05,812 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 11:46:06,101 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 11:46:06,257 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 11:46:06,390 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 11:46:06,507 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 11:46:06,626 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 11:46:06,723 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 11:46:06,851 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 11:50:43,028 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 11:50:43,028 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 11:50:43,229 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 11:50:43,363 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 11:50:43,468 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 11:50:43,548 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 11:50:43,629 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 11:50:43,712 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 11:50:43,817 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 11:58:08,946 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 11:58:08,947 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 11:58:09,179 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 11:58:09,323 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 11:58:09,426 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 11:58:09,507 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 11:58:09,590 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 11:58:09,678 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 11:58:09,782 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 12:00:05,410 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:00:05,411 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 12:00:05,623 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 12:00:05,805 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 12:00:05,925 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 12:00:06,124 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 12:00:06,287 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 12:00:06,379 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 12:00:06,488 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 12:12:51,537 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:12:51,537 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 12:12:51,758 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 12:12:51,917 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 12:12:52,079 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 12:12:52,176 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 12:12:52,283 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 12:12:52,377 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 12:12:52,508 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 12:18:51,731 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:18:51,731 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 12:18:51,921 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 12:18:52,062 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 12:18:52,170 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 12:18:52,252 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 12:18:52,340 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 12:18:52,423 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 12:18:52,527 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 12:21:28,018 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:21:28,018 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 12:21:28,268 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 12:21:28,437 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 12:21:28,573 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 12:21:28,682 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 12:21:28,795 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 12:21:28,892 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 12:21:29,007 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 12:21:32,234 : INFO : Test_Url : test_Detail_Submit_02 : ×
+Success! The Form has been submitted successfully!.
+2023-11-19 12:23:21,472 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:23:21,472 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 12:23:21,827 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 12:23:22,094 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 12:23:22,362 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 12:23:22,520 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 12:23:22,652 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 12:23:22,756 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 12:23:22,889 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 12:23:24,992 : INFO : Test_Url : test_Detail_Submit_02 : Click on Submit Button
+2023-11-19 12:23:26,057 : INFO : Test_Url : test_Detail_Submit_02 : ×
+Success! The Form has been submitted successfully!.
+2023-11-19 12:28:02,726 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:28:02,727 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 12:28:02,961 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 12:28:03,124 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 12:28:03,242 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 12:28:03,598 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 12:28:03,724 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 12:28:03,809 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 12:28:03,923 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 12:28:06,046 : INFO : Test_Url : test_Detail_Submit_02 : Click on Submit Button
+2023-11-19 12:30:00,229 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:30:00,230 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 12:30:00,415 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 12:30:00,566 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 12:30:00,670 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 12:30:00,747 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 12:30:00,831 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 12:30:00,912 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 12:30:01,017 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 12:30:03,172 : INFO : Test_Url : test_Detail_Submit_02 : Click on Submit Button
+2023-11-19 12:30:04,254 : INFO : Test_Url : test_Detail_Submit_02 : test_Detail_Submit_02 : ×
+Success! The Form has been submitted successfully!.
+2023-11-19 12:33:50,302 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:33:50,303 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 12:33:50,518 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 12:33:50,704 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 12:33:50,825 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 12:33:50,926 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 12:33:51,037 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 12:33:51,150 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 12:33:51,259 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 12:33:51,369 : INFO : Test_Url : test_Detail_Submit_02 : Click on Submit Button
+2023-11-19 12:33:51,410 : INFO : Test_Url : test_Detail_Submit_02 : test_Detail_Submit_02 : ×
+Success! The Form has been submitted successfully!.
+2023-11-19 12:35:49,127 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:37:40,064 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:37:41,606 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 12:37:41,704 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 12:37:41,848 : INFO : Test_Url : test_Shop_item : Click on Cart Checkout item button
+2023-11-19 12:37:41,948 : INFO : Test_Url : test_Shop_item : Click on Final Checkout Button
+2023-11-19 12:37:42,091 : INFO : Test_Url : test_Shop_item : Enter Location Pune
+2023-11-19 12:37:42,265 : INFO : Test_Url : test_Shop_item : Agree Terms and Conditions
+2023-11-19 12:38:58,399 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:38:59,993 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 12:39:00,101 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 12:39:00,221 : INFO : Test_Url : test_Shop_item : Click on Cart Checkout item button
+2023-11-19 12:39:00,354 : INFO : Test_Url : test_Shop_item : Click on Final Checkout Button
+2023-11-19 12:39:00,533 : INFO : Test_Url : test_Shop_item : Enter Location Pune
+2023-11-19 12:39:00,643 : INFO : Test_Url : test_Shop_item : Agree Terms and Conditions
+2023-11-19 12:39:47,515 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:39:48,449 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 12:39:48,540 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 12:39:48,655 : INFO : Test_Url : test_Shop_item : Click on Cart Checkout item button
+2023-11-19 12:39:48,758 : INFO : Test_Url : test_Shop_item : Click on Final Checkout Button
+2023-11-19 12:39:48,894 : INFO : Test_Url : test_Shop_item : Enter Location Pune
+2023-11-19 12:39:49,048 : INFO : Test_Url : test_Shop_item : Agree Terms and Conditions
+2023-11-19 12:42:55,251 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:42:56,365 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 12:42:56,462 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 12:42:56,578 : INFO : Test_Url : test_Shop_item : Click on Cart Checkout item button
+2023-11-19 12:42:56,709 : INFO : Test_Url : test_Shop_item : Click on Final Checkout Button
+2023-11-19 12:42:56,864 : INFO : Test_Url : test_Shop_item : Enter Location Pune
+2023-11-19 12:42:57,024 : INFO : Test_Url : test_Shop_item : Agree Terms and Conditions
+2023-11-19 12:43:17,795 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:43:25,245 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 12:43:25,393 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 12:43:25,638 : INFO : Test_Url : test_Shop_item : Click on Cart Checkout item button
+2023-11-19 12:43:25,737 : INFO : Test_Url : test_Shop_item : Click on Final Checkout Button
+2023-11-19 12:43:25,883 : INFO : Test_Url : test_Shop_item : Enter Location Pune
+2023-11-19 12:43:25,972 : INFO : Test_Url : test_Shop_item : Agree Terms and Conditions
+2023-11-19 12:43:34,235 : INFO : Test_Url : test_Shop_item : Click on Purchase Button
+2023-11-19 12:43:34,494 : INFO : Test_Url : test_Shop_item : Successfully Purchase item
+2023-11-19 12:43:34,494 : INFO : Test_Url : test_Shop_item : test_Detail_Submit : Completed
+2023-11-19 12:45:18,801 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:45:19,770 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 12:45:19,856 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 12:45:19,980 : INFO : Test_Url : test_Shop_item : Click on Cart Checkout item button
+2023-11-19 12:45:20,083 : INFO : Test_Url : test_Shop_item : Click on Final Checkout Button
+2023-11-19 12:45:20,238 : INFO : Test_Url : test_Shop_item : Enter Location Pune
+2023-11-19 12:45:20,418 : INFO : Test_Url : test_Shop_item : Agree Terms and Conditions
+2023-11-19 12:45:21,088 : INFO : Test_Url : test_Shop_item : Click on Purchase Button
+2023-11-19 12:45:21,348 : INFO : Test_Url : test_Shop_item : Successfully Purchase item
+2023-11-19 12:45:21,348 : INFO : Test_Url : test_Shop_item : test_Detail_Submit : Completed
+2023-11-19 12:45:37,826 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:45:38,746 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 12:45:38,837 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 12:45:38,957 : INFO : Test_Url : test_Shop_item : Click on Cart Checkout item button
+2023-11-19 12:45:39,058 : INFO : Test_Url : test_Shop_item : Click on Final Checkout Button
+2023-11-19 12:45:39,209 : INFO : Test_Url : test_Shop_item : Enter Location Pune
+2023-11-19 12:45:39,311 : INFO : Test_Url : test_Shop_item : Agree Terms and Conditions
+2023-11-19 12:45:39,956 : INFO : Test_Url : test_Shop_item : Click on Purchase Button
+2023-11-19 12:45:40,216 : INFO : Test_Url : test_Shop_item : Successfully Purchase item
+2023-11-19 12:45:40,216 : INFO : Test_Url : test_Shop_item : test_Detail_Submit : Completed
+2023-11-19 12:48:33,542 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:48:34,553 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 12:48:34,715 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 12:48:34,880 : INFO : Test_Url : test_Shop_item : Click on Cart Checkout item button
+2023-11-19 12:48:34,987 : INFO : Test_Url : test_Shop_item : Click on Final Checkout Button
+2023-11-19 12:48:35,193 : INFO : Test_Url : test_Shop_item : Enter Location Pune
+2023-11-19 12:48:35,296 : INFO : Test_Url : test_Shop_item : Agree Terms and Conditions
+2023-11-19 12:51:22,907 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:51:24,435 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 12:51:24,522 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 12:51:24,645 : INFO : Test_Url : test_Shop_item : Click on Cart Checkout item button
+2023-11-19 12:51:24,742 : INFO : Test_Url : test_Shop_item : Click on Final Checkout Button
+2023-11-19 12:51:24,892 : INFO : Test_Url : test_Shop_item : Enter Location Pune
+2023-11-19 12:51:24,996 : INFO : Test_Url : test_Shop_item : Agree Terms and Conditions
+2023-11-19 12:51:25,681 : INFO : Test_Url : test_Shop_item : Click on Purchase Button
+2023-11-19 12:51:25,964 : INFO : Test_Url : test_Shop_item : Successfully Purchase item
+2023-11-19 12:51:26,005 : INFO : Test_Url : test_Shop_item : test_Detail_Submit : Completed ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-11-19 12:52:04,571 : INFO : Test_Url : test_url_01 : Opening Browser
+2023-11-19 12:52:04,573 : INFO : Test_Url : test_url_01 : Checking Page Title
+2023-11-19 12:52:04,597 : INFO : Test_Url : test_url_01 : Page Title Confirmed : ProtoCommerce
+2023-11-19 12:52:41,452 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:52:41,512 : INFO : Test_Url : test_url_01 : Opening Browser
+2023-11-19 12:52:41,518 : INFO : Test_Url : test_url_01 : Checking Page Title
+2023-11-19 12:52:41,608 : INFO : Test_Url : test_url_01 : Page Title Confirmed : ProtoCommerce
+2023-11-19 12:52:42,637 : INFO : Test_Url : test_url_01 : test_url : Completed
+2023-11-19 12:52:42,833 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:52:42,833 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 12:52:43,383 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 12:52:43,453 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 12:52:43,723 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 12:52:43,836 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 12:52:44,013 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 12:52:44,077 : INFO : Test_Url : test_Shop_item : Click on Cart Checkout item button
+2023-11-19 12:52:44,142 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 12:52:44,277 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 12:52:44,299 : INFO : Test_Url : test_Shop_item : Click on Final Checkout Button
+2023-11-19 12:52:44,449 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 12:52:44,590 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 12:52:44,883 : INFO : Test_Url : test_Shop_item : Enter Location Pune
+2023-11-19 12:52:45,024 : INFO : Test_Url : test_Detail_Submit_02 : Click on Submit Button
+2023-11-19 12:52:45,100 : INFO : Test_Url : test_Shop_item : Agree Terms and Conditions
+2023-11-19 12:52:45,318 : INFO : Test_Url : test_Detail_Submit_02 : test_Detail_Submit_02 : Completed ×
+Success! The Form has been submitted successfully!.
+2023-11-19 12:53:03,453 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:53:03,453 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 12:53:03,666 : INFO : Test_Url : test_url_01 : Opening Browser
+2023-11-19 12:53:03,670 : INFO : Test_Url : test_url_01 : Checking Page Title
+2023-11-19 12:53:03,751 : INFO : Test_Url : test_url_01 : Page Title Confirmed : ProtoCommerce
+2023-11-19 12:53:04,022 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:53:04,177 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 12:53:04,400 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 12:53:04,813 : INFO : Test_Url : test_url_01 : test_url : Completed
+2023-11-19 12:53:05,614 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 12:53:05,770 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 12:53:05,938 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 12:53:06,071 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 12:53:06,215 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 12:53:06,384 : INFO : Test_Url : test_Shop_item : Click on Cart Checkout item button
+2023-11-19 12:53:06,392 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 12:53:06,548 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 12:53:06,566 : INFO : Test_Url : test_Shop_item : Click on Final Checkout Button
+2023-11-19 12:53:06,729 : INFO : Test_Url : test_Detail_Submit_02 : Click on Submit Button
+2023-11-19 12:53:06,799 : INFO : Test_Url : test_Detail_Submit_02 : test_Detail_Submit_02 : Completed ×
+Success! The Form has been submitted successfully!.
+2023-11-19 12:53:07,082 : INFO : Test_Url : test_Shop_item : Enter Location Pune
+2023-11-19 12:53:07,245 : INFO : Test_Url : test_Shop_item : Agree Terms and Conditions
+2023-11-19 12:55:10,923 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:55:11,040 : INFO : Test_Url : test_url_01 : Opening Browser
+2023-11-19 12:55:11,044 : INFO : Test_Url : test_url_01 : Checking Page Title
+2023-11-19 12:55:11,133 : INFO : Test_Url : test_url_01 : Page Title Confirmed : ProtoCommerce
+2023-11-19 12:55:11,933 : INFO : Test_Url : test_url_01 : test_url : Completed
+2023-11-19 12:55:12,819 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 12:55:12,927 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 12:55:13,123 : INFO : Test_Url : test_Shop_item : Click on Cart Checkout item button
+2023-11-19 12:55:13,260 : INFO : Test_Url : test_Shop_item : Click on Final Checkout Button
+2023-11-19 12:55:13,536 : INFO : Test_Url : test_Shop_item : Enter Location Pune
+2023-11-19 12:55:13,721 : INFO : Test_Url : test_Shop_item : Agree Terms and Conditions
+2023-11-19 12:56:17,270 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:56:17,271 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 12:56:17,347 : INFO : Test_Url : test_url_01 : Opening Browser
+2023-11-19 12:56:17,347 : INFO : Test_Url : test_url_01 : Checking Page Title
+2023-11-19 12:56:17,502 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:56:17,559 : INFO : Test_Url : test_url_01 : Page Title Confirmed : ProtoCommerce
+2023-11-19 12:56:17,872 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 12:56:18,390 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 12:56:18,501 : INFO : Test_Url : test_url_01 : test_url : Completed
+2023-11-19 12:56:19,143 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 12:56:19,181 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 12:56:19,343 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 12:56:19,403 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 12:56:19,519 : INFO : Test_Url : test_Shop_item : Click on Cart Checkout item button
+2023-11-19 12:56:19,603 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 12:56:19,679 : INFO : Test_Url : test_Shop_item : Click on Final Checkout Button
+2023-11-19 12:56:19,734 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 12:56:19,892 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 12:56:20,068 : INFO : Test_Url : test_Detail_Submit_02 : Click on Submit Button
+2023-11-19 12:56:20,167 : INFO : Test_Url : test_Detail_Submit_02 : test_Detail_Submit_02 : Completed ×
+Success! The Form has been submitted successfully!.
+2023-11-19 12:56:20,303 : INFO : Test_Url : test_Shop_item : Enter Location Pune
+2023-11-19 12:56:20,499 : INFO : Test_Url : test_Shop_item : Agree Terms and Conditions
+2023-11-19 12:56:51,316 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:56:51,317 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 12:56:51,385 : INFO : Test_Url : test_url_01 : Opening Browser
+2023-11-19 12:56:51,386 : INFO : Test_Url : test_url_01 : Checking Page Title
+2023-11-19 12:56:51,462 : INFO : Test_Url : test_url_01 : Page Title Confirmed : ProtoCommerce
+2023-11-19 12:56:51,642 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 12:56:51,847 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 12:56:52,003 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 12:56:52,138 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 12:56:52,247 : INFO : Test_Url : test_url_01 : test_url : Completed
+2023-11-19 12:56:52,280 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 12:56:52,414 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 12:56:52,558 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 12:56:52,714 : INFO : Test_Url : test_Detail_Submit_02 : Click on Submit Button
+2023-11-19 12:56:52,772 : INFO : Test_Url : test_Detail_Submit_02 : test_Detail_Submit_02 : Completed ×
+Success! The Form has been submitted successfully!.
+2023-11-19 12:57:05,918 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:57:07,504 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 12:57:07,616 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 12:57:07,720 : INFO : Test_Url : test_Shop_item : Click on Cart Checkout item button
+2023-11-19 12:57:07,820 : INFO : Test_Url : test_Shop_item : Click on Final Checkout Button
+2023-11-19 12:57:08,050 : INFO : Test_Url : test_Shop_item : Enter Location Pune
+2023-11-19 12:57:08,145 : INFO : Test_Url : test_Shop_item : Agree Terms and Conditions
+2023-11-19 12:57:26,609 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:57:26,610 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 12:57:26,615 : INFO : Test_Url : test_url_01 : Opening Browser
+2023-11-19 12:57:26,619 : INFO : Test_Url : test_url_01 : Checking Page Title
+2023-11-19 12:57:26,625 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:57:26,661 : INFO : Test_Url : test_url_01 : Page Title Confirmed : ProtoCommerce
+2023-11-19 12:57:26,944 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 12:57:27,288 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 12:57:27,419 : INFO : Test_Url : test_url_01 : test_url : Completed
+2023-11-19 12:57:28,153 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 12:57:28,309 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 12:57:28,381 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 12:57:28,449 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 12:57:28,532 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 12:57:28,651 : INFO : Test_Url : test_Shop_item : Click on Cart Checkout item button
+2023-11-19 12:57:28,699 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 12:57:28,843 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 12:57:28,884 : INFO : Test_Url : test_Shop_item : Click on Final Checkout Button
+2023-11-19 12:57:29,011 : INFO : Test_Url : test_Detail_Submit_02 : Click on Submit Button
+2023-11-19 12:57:29,071 : INFO : Test_Url : test_Detail_Submit_02 : test_Detail_Submit_02 : Completed ×
+Success! The Form has been submitted successfully!.
+2023-11-19 12:57:29,275 : INFO : Test_Url : test_Shop_item : Enter Location Pune
+2023-11-19 12:57:29,494 : INFO : Test_Url : test_Shop_item : Agree Terms and Conditions
+2023-11-19 12:58:58,540 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:58:58,568 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 12:58:58,569 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 12:58:59,072 : INFO : Test_Url : test_url_01 : Opening Browser
+2023-11-19 12:58:59,092 : INFO : Test_Url : test_url_01 : Checking Page Title
+2023-11-19 12:58:59,158 : INFO : Test_Url : test_url_01 : Page Title Confirmed : ProtoCommerce
+2023-11-19 12:58:59,442 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 12:59:00,284 : INFO : Test_Url : test_url_01 : test_url : Completed
+2023-11-19 12:59:00,566 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 12:59:00,679 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 12:59:01,079 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 12:59:01,502 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 12:59:01,538 : INFO : Test_Url : test_Shop_item : Click on Cart Checkout item button
+2023-11-19 12:59:01,806 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 12:59:01,828 : INFO : Test_Url : test_Shop_item : Click on Final Checkout Button
+2023-11-19 12:59:02,433 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 12:59:02,672 : INFO : Test_Url : test_Shop_item : Enter Location Pune
+2023-11-19 12:59:02,781 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 12:59:02,926 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 12:59:03,110 : INFO : Test_Url : test_Detail_Submit_02 : Click on Submit Button
+2023-11-19 12:59:03,178 : INFO : Test_Url : test_Detail_Submit_02 : test_Detail_Submit_02 : Completed ×
+Success! The Form has been submitted successfully!.
+2023-11-19 12:59:04,806 : INFO : Test_Url : test_Shop_item : Agree Terms and Conditions
+2023-11-19 13:00:34,933 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 13:00:34,933 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 13:00:36,003 : INFO : Test_Url : test_url_01 : Opening Browser
+2023-11-19 13:00:36,009 : INFO : Test_Url : test_url_01 : Checking Page Title
+2023-11-19 13:00:36,143 : INFO : Test_Url : test_url_01 : Page Title Confirmed : ProtoCommerce
+2023-11-19 13:00:36,522 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 13:00:36,824 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 13:00:36,946 : INFO : Test_Url : test_url_01 : test_url : Completed
+2023-11-19 13:00:37,004 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 13:00:37,840 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 13:00:37,968 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 13:00:38,243 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 13:00:38,410 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 13:00:38,417 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 13:00:38,572 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 13:00:38,601 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 13:00:38,770 : INFO : Test_Url : test_Detail_Submit_02 : Click on Submit Button
+2023-11-19 13:00:38,801 : INFO : Test_Url : test_Shop_item : Click on Cart Checkout item button
+2023-11-19 13:00:38,833 : INFO : Test_Url : test_Detail_Submit_02 : test_Detail_Submit_02 : Completed ×
+Success! The Form has been submitted successfully!.
+2023-11-19 13:00:38,992 : INFO : Test_Url : test_Shop_item : Click on Final Checkout Button
+2023-11-19 13:00:39,250 : INFO : Test_Url : test_Shop_item : Enter Location Pune
+2023-11-19 13:00:41,389 : INFO : Test_Url : test_Shop_item : Agree Terms and Conditions
+2023-11-19 13:01:11,146 : INFO : Test_Url : test_url_01 : Opening Browser
+2023-11-19 13:01:11,148 : INFO : Test_Url : test_url_01 : Checking Page Title
+2023-11-19 13:01:11,164 : INFO : Test_Url : test_url_01 : Page Title Confirmed : ProtoCommerce
+2023-11-19 13:01:11,906 : INFO : Test_Url : test_url_01 : test_url : Completed
+2023-11-19 13:01:15,140 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 13:01:15,140 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 13:01:15,777 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 13:01:15,920 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 13:01:16,031 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 13:01:16,111 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 13:01:16,194 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 13:01:16,291 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 13:01:16,405 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 13:01:16,518 : INFO : Test_Url : test_Detail_Submit_02 : Click on Submit Button
+2023-11-19 13:01:16,558 : INFO : Test_Url : test_Detail_Submit_02 : test_Detail_Submit_02 : Completed ×
+Success! The Form has been submitted successfully!.
+2023-11-19 13:01:19,714 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 13:01:20,520 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 13:01:20,612 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 13:01:20,719 : INFO : Test_Url : test_Shop_item : Click on Cart Checkout item button
+2023-11-19 13:01:20,818 : INFO : Test_Url : test_Shop_item : Click on Final Checkout Button
+2023-11-19 13:01:20,948 : INFO : Test_Url : test_Shop_item : Enter Location Pune
+2023-11-19 13:01:23,068 : INFO : Test_Url : test_Shop_item : Agree Terms and Conditions
+2023-11-19 13:02:06,427 : INFO : Test_Url : test_url_01 : Opening Browser
+2023-11-19 13:02:06,430 : INFO : Test_Url : test_url_01 : Checking Page Title
+2023-11-19 13:02:06,457 : INFO : Test_Url : test_url_01 : Page Title Confirmed : ProtoCommerce
+2023-11-19 13:02:07,535 : INFO : Test_Url : test_url_01 : test_url : Completed
+2023-11-19 13:02:10,414 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 13:02:10,415 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 13:02:11,087 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 13:02:11,250 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 13:02:11,359 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 13:02:11,455 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 13:02:11,573 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 13:02:11,668 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 13:02:11,783 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 13:02:11,899 : INFO : Test_Url : test_Detail_Submit_02 : Click on Submit Button
+2023-11-19 13:02:11,950 : INFO : Test_Url : test_Detail_Submit_02 : test_Detail_Submit_02 : Completed ×
+Success! The Form has been submitted successfully!.
+2023-11-19 13:02:14,859 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 13:02:15,678 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 13:02:15,768 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 13:02:15,888 : INFO : Test_Url : test_Shop_item : Click on Cart Checkout item button
+2023-11-19 13:02:15,984 : INFO : Test_Url : test_Shop_item : Click on Final Checkout Button
+2023-11-19 13:02:16,120 : INFO : Test_Url : test_Shop_item : Enter Location Pune
+2023-11-19 13:02:18,198 : INFO : Test_Url : test_Shop_item : Agree Terms and Conditions
+2023-11-19 13:02:21,318 : INFO : Test_Url : test_Shop_item : Click on Purchase Button
+2023-11-19 13:02:21,595 : INFO : Test_Url : test_Shop_item : Successfully Purchase item
+2023-11-19 13:02:21,631 : INFO : Test_Url : test_Shop_item : test_Detail_Submit : Completed ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-11-19 13:07:05,568 : INFO : setup : setup : Opening in Chrome Mode
+2023-11-19 13:07:08,328 : INFO : Test_Url : test_url_01 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 13:07:08,329 : INFO : Test_Url : test_url_01 : Opening Browser
+2023-11-19 13:07:08,333 : INFO : Test_Url : test_url_01 : Checking Page Title
+2023-11-19 13:07:08,875 : INFO : Test_Url : test_url_01 : Page Title Confirmed : ProtoCommerce
+2023-11-19 13:07:09,903 : INFO : Test_Url : test_url_01 : test_url_01 : Completed
+2023-11-19 13:07:10,280 : INFO : setup : setup : Opening in Chrome Mode
+2023-11-19 13:07:10,280 : INFO : setup : setup : Opening in Chrome Mode
+2023-11-19 13:07:13,661 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 13:07:13,662 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 13:07:13,873 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 13:07:14,027 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 13:07:14,134 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 13:07:14,217 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 13:07:14,325 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 13:07:14,429 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 13:07:14,535 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 13:07:14,706 : INFO : Test_Url : test_Detail_Submit_02 : Click on Submit Button
+2023-11-19 13:07:14,747 : INFO : Test_Url : test_Detail_Submit_02 : test_Detail_Submit_02 : Completed ×
+Success! The Form has been submitted successfully!.
+2023-11-19 13:07:14,994 : INFO : setup : setup : Opening in Chrome Mode
+2023-11-19 13:07:14,994 : INFO : setup : setup : Opening in Chrome Mode
+2023-11-19 13:07:14,994 : INFO : setup : setup : Opening in Chrome Mode
+2023-11-19 13:07:17,839 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 13:07:19,041 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 13:07:19,203 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 13:07:19,442 : INFO : Test_Url : test_Shop_item : Click on Cart Checkout item button
+2023-11-19 13:07:19,539 : INFO : Test_Url : test_Shop_item : Click on Final Checkout Button
+2023-11-19 13:07:19,685 : INFO : Test_Url : test_Shop_item : Enter Location Pune
+2023-11-19 13:07:21,832 : INFO : Test_Url : test_Shop_item : Agree Terms and Conditions
+2023-11-19 13:07:24,960 : INFO : Test_Url : test_Shop_item : Click on Purchase Button
+2023-11-19 13:07:25,231 : INFO : Test_Url : test_Shop_item : Successfully Purchase item
+2023-11-19 13:07:25,266 : INFO : Test_Url : test_Shop_item : test_Detail_Submit : Completed ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-11-19 13:10:05,978 : INFO : setup : setup : Opening in Chrome Mode
+2023-11-19 13:10:09,035 : INFO : Test_Url : test_url_01 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 13:10:09,035 : INFO : Test_Url : test_url_01 : Opening Browser
+2023-11-19 13:10:09,038 : INFO : Test_Url : test_url_01 : Checking Page Title
+2023-11-19 13:10:09,075 : INFO : Test_Url : test_url_01 : Page Title Confirmed : ProtoCommerce
+2023-11-19 13:10:09,622 : INFO : Test_Url : test_url_01 : test_url_01 : Completed
+2023-11-19 13:10:09,937 : INFO : setup : setup : Opening in Chrome Mode
+2023-11-19 13:10:09,937 : INFO : setup : setup : Opening in Chrome Mode
+2023-11-19 13:10:12,896 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 13:10:12,896 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 13:10:13,097 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 13:10:13,243 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 13:10:13,354 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 13:10:13,436 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 13:10:13,531 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 13:10:13,624 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 13:10:13,740 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 13:10:13,856 : INFO : Test_Url : test_Detail_Submit_02 : Click on Submit Button
+2023-11-19 13:10:13,900 : INFO : Test_Url : test_Detail_Submit_02 : test_Detail_Submit_02 : Completed ×
+Success! The Form has been submitted successfully!.
+2023-11-19 13:10:14,104 : INFO : setup : setup : Opening in Chrome Mode
+2023-11-19 13:10:14,104 : INFO : setup : setup : Opening in Chrome Mode
+2023-11-19 13:10:14,104 : INFO : setup : setup : Opening in Chrome Mode
+2023-11-19 13:10:16,901 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 13:10:19,385 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 13:10:19,547 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 13:10:19,717 : INFO : Test_Url : test_Shop_item : Click on Cart Checkout item button
+2023-11-19 13:10:19,810 : INFO : Test_Url : test_Shop_item : Click on Final Checkout Button
+2023-11-19 13:10:19,939 : INFO : Test_Url : test_Shop_item : Enter Location Pune
+2023-11-19 13:10:22,092 : INFO : Test_Url : test_Shop_item : Agree Terms and Conditions
+2023-11-19 13:10:25,183 : INFO : Test_Url : test_Shop_item : Click on Purchase Button
+2023-11-19 13:10:25,362 : INFO : Test_Url : test_Shop_item : Successfully Purchase item
+2023-11-19 13:10:25,398 : INFO : Test_Url : test_Shop_item : test_Detail_Submit : Completed ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-11-19 16:15:15,245 : INFO : setup : setup : Headless Mode On
+2023-11-19 16:15:21,861 : INFO : Test_Url : test_url_01 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 16:15:21,861 : INFO : Test_Url : test_url_01 : Opening Browser
+2023-11-19 16:15:21,865 : INFO : Test_Url : test_url_01 : Checking Page Title
+2023-11-19 16:15:21,894 : INFO : Test_Url : test_url_01 : Page Title Confirmed : ProtoCommerce
+2023-11-19 16:15:22,064 : INFO : Test_Url : test_url_01 : test_url_01 : Completed
+2023-11-19 16:15:22,148 : INFO : setup : setup : Headless Mode On
+2023-11-19 16:15:22,148 : INFO : setup : setup : Headless Mode On
+2023-11-19 16:15:24,593 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 16:15:24,593 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 16:15:24,759 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 16:15:24,883 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 16:15:24,974 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 16:15:25,057 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 16:15:25,223 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 16:15:25,343 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 16:15:25,443 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 16:15:25,544 : INFO : Test_Url : test_Detail_Submit_02 : Click on Submit Button
+2023-11-19 16:15:25,585 : INFO : Test_Url : test_Detail_Submit_02 : test_Detail_Submit_02 : Completed ×
+Success! The Form has been submitted successfully!.
+2023-11-19 16:15:25,636 : INFO : setup : setup : Headless Mode On
+2023-11-19 16:15:25,636 : INFO : setup : setup : Headless Mode On
+2023-11-19 16:15:25,636 : INFO : setup : setup : Headless Mode On
+2023-11-19 16:15:28,071 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 16:15:29,028 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 16:15:29,161 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 16:16:29,262 : INFO : setup : setup : Opening in Chrome Mode
+2023-11-19 16:16:32,437 : INFO : Test_Url : test_url_01 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 16:16:32,438 : INFO : Test_Url : test_url_01 : Opening Browser
+2023-11-19 16:16:32,439 : INFO : Test_Url : test_url_01 : Checking Page Title
+2023-11-19 16:16:32,461 : INFO : Test_Url : test_url_01 : Page Title Confirmed : ProtoCommerce
+2023-11-19 16:16:33,048 : INFO : Test_Url : test_url_01 : test_url_01 : Completed
+2023-11-19 16:16:33,420 : INFO : setup : setup : Opening in Chrome Mode
+2023-11-19 16:16:33,420 : INFO : setup : setup : Opening in Chrome Mode
+2023-11-19 16:16:38,005 : INFO : Test_Url : test_Detail_Submit_02 : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 16:16:38,006 : INFO : Test_Url : test_Detail_Submit_02 : Opening Browser
+2023-11-19 16:16:38,200 : INFO : Test_Url : test_Detail_Submit_02 : Enter Name : Alkesh Jangid
+2023-11-19 16:16:38,343 : INFO : Test_Url : test_Detail_Submit_02 : Enter Email id : admin@gmail.com
+2023-11-19 16:16:38,458 : INFO : Test_Url : test_Detail_Submit_02 : Enter Password : admin123
+2023-11-19 16:16:38,543 : INFO : Test_Url : test_Detail_Submit_02 : Click on CheckBox
+2023-11-19 16:16:38,634 : INFO : Test_Url : test_Detail_Submit_02 : Select Gender
+2023-11-19 16:16:38,729 : INFO : Test_Url : test_Detail_Submit_02 : Click on Radio Button
+2023-11-19 16:16:38,841 : INFO : Test_Url : test_Detail_Submit_02 : Enter Date of Birth : 10-11-2012
+2023-11-19 16:16:38,957 : INFO : Test_Url : test_Detail_Submit_02 : Click on Submit Button
+2023-11-19 16:16:39,001 : INFO : Test_Url : test_Detail_Submit_02 : test_Detail_Submit_02 : Completed ×
+Success! The Form has been submitted successfully!.
+2023-11-19 16:16:39,214 : INFO : setup : setup : Opening in Chrome Mode
+2023-11-19 16:16:39,214 : INFO : setup : setup : Opening in Chrome Mode
+2023-11-19 16:16:39,214 : INFO : setup : setup : Opening in Chrome Mode
+2023-11-19 16:16:41,785 : INFO : Test_Url : test_Shop_item : Visit on URL : https://rahulshettyacademy.com/angularpractice/
+2023-11-19 16:16:43,512 : INFO : Test_Url : test_Shop_item : Click on Shop Button
+2023-11-19 16:16:43,606 : INFO : Test_Url : test_Shop_item : Select item and click Add to Cart button
+2023-11-19 16:16:43,735 : INFO : Test_Url : test_Shop_item : Click on Cart Checkout item button
+2023-11-19 16:16:43,843 : INFO : Test_Url : test_Shop_item : Click on Final Checkout Button
+2023-11-19 16:16:43,977 : INFO : Test_Url : test_Shop_item : Enter Location Pune
+2023-11-19 16:16:46,063 : INFO : Test_Url : test_Shop_item : Agree Terms and Conditions
+2023-11-19 16:16:49,242 : INFO : Test_Url : test_Shop_item : Click on Purchase Button
+2023-11-19 16:16:49,513 : INFO : Test_Url : test_Shop_item : Successfully Purchase item
+2023-11-19 16:16:49,549 : INFO : Test_Url : test_Shop_item : test_Detail_Submit : Completed ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
